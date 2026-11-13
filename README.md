@@ -39,3 +39,7 @@ python3 -m http.server 8080
 ## GitHub Pages
 
 Settings → Pages → Deploy from a branch → main → /(root)。推送 main 後自動更新網站。
+
+## 正式影片更新
+
+遊戲內影片已替換為恩鳳提供的 street-treasure-plane-master.mp4（15 秒、1080×1920、H.264/AAC），僅調整 MP4 faststart 索引位置，未重新編碼畫面或音訊。
